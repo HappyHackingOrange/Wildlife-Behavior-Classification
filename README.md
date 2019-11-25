@@ -3,7 +3,7 @@ Development and application of data science and machine learning in carnivore be
 
 ## Abstract
 
-TODO <Write an abstract about this project>
+TODO: Write an abstract about this project
   
 ### Prerequisites
 
