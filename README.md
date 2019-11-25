@@ -1,10 +1,10 @@
 # Wildlife-Behavior-Classification
 Development and application of data science and machine learning in carnivore behavior studies
 
-## Getting Started
+## Abstract
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+TODO <Write an abstract about this project>
+  
 ### Prerequisites
 
 What things you need to install the software and how to install them
@@ -81,6 +81,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to my friend Nancy Barker, who created this PhD research project and mainly contributed ideas/concepts for my coding working.
+
