@@ -1,5 +1,5 @@
 # Wildlife-Behavior-Classification
-Development and application of statistical and machine learning techniques in carnivore behavior studies
+Showing my works in development and application of statistical and machine learning techniques in carnivore behavior studies
 
 ## Abstract
 
