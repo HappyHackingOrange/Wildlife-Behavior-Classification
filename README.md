@@ -1,7 +1,7 @@
 # Wildlife-Behavior-Classification
 Showing my works in development and application of statistical and machine learning techniques in carnivore behavior studies
 
-## Abstract
+## Description
 
 This is demonstration of sophisticated statistical and machine learning techniques in analysis of carnivore movement and accelometer data.  GPS transmitters were used for estimating carnivores' locations and dual-axial accelerometers used for measuring 2-dimensional accelerations of carnivores' motion.  Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into ecological and physiological mechanisms underlying carnivore behavior and movements.  This research project experimented the appplications of hidden Markov models, support vector machine, clustering techniques, a local convex hull method, and more, in the inference of carnivore behavior from movement data.  
 
