@@ -1,9 +1,10 @@
 # Wildlife-Behavior-Classification
-Development and application of data science and machine learning in carnivore behavior studies
+Development and application of statistical and machine learning techniques in carnivore behavior studies
 
 ## Abstract
 
 TODO: Write an abstract about this project
+This is demonstration of sophisticated statistical and machine learning techniques in analysis of carnivore movement and accelometer data.  GPS transmitters were used for estimating carnivores' locations and dual-axial accelerometers used for measuring 2-dimensional accelerations of carnivores' motion.  Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into ecological and physiological mechanisms underlying carnivore behavior and movements.  This research project experimented the appplications of hidden Markov models, support vector machine, clustering techniques, a local convex hull method, and more, in the inference of animal behavior from movement data.  
 
 ## Author
 
