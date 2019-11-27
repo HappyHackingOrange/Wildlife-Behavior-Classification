@@ -1,17 +1,17 @@
 # Wildlife-Behavior-Classification
-A project portfolio in development and application of statistical and machine learning techniques in carnivore behavior studies
+A project portfolio in development and application of statistical and machine learning techniques utilized for the behavioral analysis of wildlife
 
 ## Description
 
-This is a project portfolio that showcases results of application of statistical and machine learning techniques in analysis of carnivore movement and accelometer data.  GPS transmitters were used for estimating carnivores' locations and dual-axial accelerometers used for measuring 2-dimensional accelerations of carnivores' motion.  Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into ecological and physiological mechanisms underlying carnivore behavior and movements.  This research project experimented the appplications of hidden Markov models, support vector machine, clustering techniques, a local convex hull method, and more, in the inference of carnivore behavior from movement data.  
+This is a project that showcases the results of application of statistical and machine learning techniques in analysis of wildlife movement and accelometer data. GPS transmitters were deployed on two different wildlife species to track locations and dual-axial accelerometers measured the 2-dimensional accelerations of the animal's motion. Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into the ecological and physiological mechanisms uderlying wildlife behavior and movements. This research project undertakes the appications of hidden Markov models, support vector machine, clustering techniques, including spatiotemporal analysis in the inference of wildlife behavior from movement data.
 
-## Carnivore movement modelling using Hidden Markov Models
+## Wildlife movement modelling using Hidden Markov Models
 
-Hidden Markov Models (HMMs) were applied on step lengths and turning angles derived from GPS location data, to understand movement patterns of two competing carnivore species and to discern factors influencing these patterns. Four distinct movement modes were identified, from most stationary to most active.  Most stationary mode is characterized by short step lengths and turning angles around 180 degrees, while most active mode is characterized by long step lengths and turning angles around zero degree.
+Hidden Markov Models (HMMs) were applied on step lengths and turning angles derived from GPS location data, to understand movement patterns of two competing carnivore species and to discern factors influencing these patterns. A variety of two to six different states were identified, ranging from the most stationary behaviors to most active behaviors. The most stationary mode is typically characterized by short step lengths and turning angles around 180 degrees, while the most active mode is usually characterized by longer step lengths and turning angles around zero degrees.
 
 ## Author
 
-* **Vincent Stowbunenko** - *Initial work* - [HappyHackingOrange](https://github.com/HappyHackingOrange)
+* **Vincent Stowbunenko** - Code developer and data science applications - [HappyHackingOrange](https://github.com/HappyHackingOrange)
 
 ## License
 
@@ -19,5 +19,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to my friend Nancy Barker, who created this PhD research project and mainly contributed ideas/concepts for my coding working.
-
+* This project was developed in collaboration with the principal investigator of the field study, Nancy Barker, who contributed the conceptual framework towards the development of my coding applications and implementations. Nancy Barker devised this field study in conjunction with Professor Getz of UC Berkeley and Professor Slotow of University of KwaZulu-Natil (UKZN) towards a PhD research project.
