@@ -5,11 +5,9 @@ A project portfolio in development and application of statistical and machine le
 
 This is a project portfolio that showcases results of application of statistical and machine learning techniques in analysis of carnivore movement and accelometer data.  GPS transmitters were used for estimating carnivores' locations and dual-axial accelerometers used for measuring 2-dimensional accelerations of carnivores' motion.  Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into ecological and physiological mechanisms underlying carnivore behavior and movements.  This research project experimented the appplications of hidden Markov models, support vector machine, clustering techniques, a local convex hull method, and more, in the inference of carnivore behavior from movement data.  
 
-<!---
-## Unsupervised learning techniques
+## Carnivore movement modelling using Hidden Markov Models
 
-An unsupervised learning algorithm, like Hidden Markov Models (HMMs), help infer different behavioral modes using GPS location data and accelometer data.  HMMs estimate the probabilities that carnivores switch between different behavioral modes.  Nevertheless, HMMs neither directly estimate carnivore locations nor account for measurement error explicitly.  Supervised learning algorithms integrate data on locations and directional accelerations with synchronized behavioral observations (i.e., labels) to classify behaviors to predefined behavioral categories.  Unlike unsupervised learning, supervised learning requires behavioral observations to label locations and accelerometer data to train the learning algorithms.  However behavioral observations synchronized with relocations and accelration records are often missing or unattainable in many species, hindering the application of supervised learning, making unsupervised learning a suitable tool for behavioral annotation of movement paths in secretive or less studied species.  Enivironmental and behavioral annotations of carnivore movement paths by machine learning improve understanding the effects of environmental conditional on carnivore movements and behavioral decisions.
---->
+Hidden Markov Models (HMMs) were applied on step lengths and turning angles derived from GPS location data, to understand movement patterns of two competing carnivore species and to discern factors influencing these patterns. Four distinct movement modes were identified, from most stationary to most active.  Most stationary mode is characterized by short step lengths and turning angles around 180 degrees, while most active mode is characterized by long step lengths and turning angles around zero degree.
 
 ## Author
 
