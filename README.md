@@ -13,7 +13,9 @@ Hidden Markov Models (HMMs) were applied on step lengths and turning angles deri
 
 Support Vector Machines used in conjunction with Hidden Markov Models (SVM-HMM) are used to address the problem where continuously recorded data were largely unsupervised.  It allowed for classifcation of animal behavior using a small set of field observation to calibrate continuously recorded activity data. The classified data were applied quantitatively to the behavior of animals over extended periods and at times during which observation is difficult or impossible.  The plots shown below demonstrate the usefulness of the method by applying SVM-HMM to data from a number of carnivores from both competing species.
 
-## 
+## Feature Selection and Clustering Techniques
+
+Because the data contains both quantitative and qualitative features (also called mixed data), factor analysis of mixed data (FAMD) is used to select features before clustering.  FAMD works as a principal components analysis (PCA) for quantitative features and as a multiple correspondence analysis (MCA) for qualitative features.
 
 ## Author
 
