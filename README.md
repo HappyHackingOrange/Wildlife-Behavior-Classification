@@ -5,9 +5,13 @@ A project portfolio in development and application of statistical and machine le
 
 This is a project that showcases the results of application of statistical and machine learning techniques in analysis of wildlife movement and accelometer data. GPS transmitters were deployed on two different wildlife species to track locations and dual-axis accelerometers measured the 2-dimensional accelerations of the animal's motion. Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into the ecological and physiological mechanisms underlying wildlife behavior and movements. This research project undertakes the appications of hidden Markov models, support vector machine, clustering techniques, including spatiotemporal analysis in the inference of wildlife behavior from movement data.
 
-## Wildlife movement modelling using Hidden Markov Models
+## Movement modelling using Hidden Markov Models
 
 Hidden Markov Models (HMMs) were applied on step lengths and turning angles derived from GPS location data, to understand movement patterns of two competing carnivore species and to discern factors influencing these patterns. A variety of two to six different states were identified, ranging from the most stationary behaviors to most active behaviors. The most stationary mode is typically characterized by short step lengths and turning angles around 180 degrees, while the most active mode is usually characterized by longer step lengths and turning angles around zero degrees.
+
+## Activity Based SVM-HMM Classification of Wildlife Behavior
+
+Continuously recorded data are of little use unless the resulting large volumnes of raw data can be relibably translated into actual behavior. The problem was addressed by implementing Support Vector Machines used in conjunction with Hidden Markov Models (SVM-HMM), which allowed for classifcation of animal behavior using a small set of field observation to calibrate continuously recorded activity data. The classified data were applied quantitatively to the behavior of animals over extended periods and at times during which observation is difficult or impossible.  The plots shown below demonstrate the usefullness of the method by applying SVM-HMM to data from a number of carnivores from both competing species in Namibia and Botswana.
 
 ## Author
 
