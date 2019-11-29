@@ -21,7 +21,7 @@ Because the data contains both continuous and categorical features (also called 
 
 ## Spatiotemporal Analysis
 
-A spatiotemporal analysis method called T-LoCoH (Time Local Convex Hull) is used to construct home ranges and exploring spati-temporal patterns in movement data.  It is a extension of the LoCoH method but includes time in the analysis.
+A spatiotemporal analysis method called T-LoCoH (Time Local Convex Hull) is used to construct home ranges and exploring spatiotemporal patterns in movement data.  It is a extension of the LoCoH method but includes time in the analysis.
 
 ## Author
 
