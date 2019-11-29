@@ -3,7 +3,7 @@ A project portfolio in development and application of statistical and machine le
 
 ## Description
 
-This is a project that showcases the results of application of statistical and machine learning techniques in analysis of wildlife movement and accelometer data. GPS transmitters were deployed on two different wildlife species to track locations and dual-axial accelerometers measured the 2-dimensional accelerations of the animal's motion. Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into the ecological and physiological mechanisms uderlying wildlife behavior and movements. This research project undertakes the appications of hidden Markov models, support vector machine, clustering techniques, including spatiotemporal analysis in the inference of wildlife behavior from movement data.
+This is a project that showcases the results of application of statistical and machine learning techniques in analysis of wildlife movement and accelometer data. GPS transmitters were deployed on two different wildlife species to track locations and dual-axis accelerometers measured the 2-dimensional accelerations of the animal's motion. Machine learning and other advanced statistical methods bridge conceptual models to data, providing insights into the ecological and physiological mechanisms underlying wildlife behavior and movements. This research project undertakes the appications of hidden Markov models, support vector machine, clustering techniques, including spatiotemporal analysis in the inference of wildlife behavior from movement data.
 
 ## Wildlife movement modelling using Hidden Markov Models
 
