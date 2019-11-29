@@ -15,7 +15,11 @@ Support Vector Machines used in conjunction with Hidden Markov Models (SVM-HMM) 
 
 ## Feature Selection and Clustering Techniques
 
-Because the data contains both quantitative and qualitative features (also called mixed data), factor analysis of mixed data (FAMD) is used to select features before clustering.  FAMD works as a principal components analysis (PCA) for quantitative features and as a multiple correspondence analysis (MCA) for qualitative features.
+Because the data contains both continuous and categorical features (also called mixed data), factor analysis of mixed data (FAMD) is used to select features before clustering.  FAMD works as a principal components analysis (PCA) for continuous features and as a multiple correspondence analysis (MCA) for categorical features.  A clustering algorithm called k-prototype is used to cluster mixed data, which is a simple combination of (continuous) k-means and (categorical) k-modes clustering algorithms.
+
+## Spatiotemporal Analysis
+
+A spatiotemporal analysis method called T-LoCoH (Time Local Convex Hull) is used to construct home ranges and exploring spati-temporal patterns in movement data.  It is a extension of the LoCoH method but includes time in the analysis.
 
 ## Author
 
