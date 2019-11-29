@@ -1,7 +1,7 @@
 # Wildlife-Behavior-Classification
 A project portfolio in development and application of statistical and machine learning techniques utilized for the behavioral analysis of wildlife
 
-(The code and results will be shown soon after publishment of the paper)
+(The code and results will be shown soon after publication of the paper)
 
 ## Description
 
