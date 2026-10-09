@@ -16,7 +16,7 @@ Both papers are open access.
 
 ## Published datasets
 
-I am a named author on these Zenodo datasets:
+I am a named author on these Zenodo datasets. Both are restricted access: the records and DOIs are public, and the data files are available on request through Zenodo.
 
 - Space use and simultaneous movement analyses of lions and spotted hyenas (2022): https://doi.org/10.5281/zenodo.6476304
 - Movement and competition ecology of African lions in semi-arid and wetland ecosystems (2021): https://doi.org/10.5281/zenodo.5553554
