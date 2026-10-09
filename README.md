@@ -21,7 +21,7 @@ I am a named author on these Zenodo datasets:
 - Space use and simultaneous movement analyses of lions and spotted hyenas (2022): https://doi.org/10.5281/zenodo.6476304
 - Movement and competition ecology of African lions in semi-arid and wetland ecosystems (2021): https://doi.org/10.5281/zenodo.5553554
 
-![Map of the study areas with lion and spotted hyena 95% home ranges in Etosha National Park, Namibia, and Chobe-Linyanti, Botswana](figures/frontiers2026_fig1.png)
+![Map of the study areas with lion and spotted hyena 95% home ranges in Etosha National Park, Namibia, and Chobe-Linyanti, Botswana](figures/frontiers2026_figure1_map.png)
 
 *Figure 1 from Barker et al. (2026), Frontiers in Ethology, licensed under CC BY 4.0: study areas and 95% home ranges of lions and spotted hyenas over satellite imagery. I produced this map in Python (GeoPandas, Cartopy) from T-LoCoH home-range polygons.*
 
