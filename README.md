@@ -53,6 +53,10 @@ flowchart TB
 
 **Visualization.** Most of the figures in the publications, including maps of home-range polygons over satellite imagery. See the figures in the open-access papers linked above.
 
+## Worked example
+
+[`example/pipeline_example.md`](example/pipeline_example.md) runs the same stages end to end on public data, the African buffalo GPS tracks that ship with the `ctmm` R package: cleaning, gap filling with a continuous-time movement model, feature engineering, FAMD and k-prototypes clustering, and AKDE home ranges, with the code and figures for each step. The source is [`example/pipeline_example.Rmd`](example/pipeline_example.Rmd). None of the lion or hyena data is used.
+
 ## Unpublished work
 
 Behavior classification from GPS and accelerometer data using hidden Markov models and support vector machines combined with HMMs (SVM-HMM) is part of this project but **has not been published yet**, so no data, results or figures from it are shared here. The approach in brief: HMMs on step lengths and turning angles to identify movement states, and SVM-HMM to classify activity data that was mostly unlabeled, calibrated with a small set of field observations.
