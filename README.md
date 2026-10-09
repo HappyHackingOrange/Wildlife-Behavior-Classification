@@ -28,13 +28,13 @@ I am a named author on these Zenodo datasets:
 ## The data pipeline
 
 ```mermaid
-flowchart LR
-    A[GPS and accelerometer<br/>collar telemetry] --> B[Clean and validate<br/>in R]
-    B --> C[Fill missing fixes<br/>with ctmm]
-    C --> D[Feature engineering<br/>movement and landscape]
-    D --> E[Analysis<br/>clustering, home ranges,<br/>relative motion]
-    E --> F[Figures and<br/>publications]
-    E --> G[Published datasets<br/>on Zenodo]
+flowchart TB
+    A[GPS and accelerometer collar telemetry] --> B[Clean and validate in R]
+    B --> C[Fill missing fixes with ctmm]
+    C --> D[Feature engineering: movement and landscape]
+    D --> E[Analysis: clustering, home ranges, relative motion]
+    E --> F[Figures and publications]
+    E --> G[Published datasets on Zenodo]
 ```
 
 **Raw data.** GPS relocations from collared lions and spotted hyenas, with accelerometer activity values. The PLOS ONE study used 575,418 relocations from 19 lions and 14 hyenas; the Frontiers study used 349,163 relocations from 17 lions and 14 hyenas.
